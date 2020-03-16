@@ -1,10 +1,8 @@
 # 构建的琐事杂记
 
 
-## webpack
+## [webpack](https://www.webpackjs.com/concepts/)
 
-
-官网: https://www.webpackjs.com/concepts/
 
 ### Node Interface
 
