@@ -66,7 +66,11 @@ https://docs.npmjs.com/configuring-npm/shrinkwrap-json.html
 
 ## hot load
 
-react-hot-loader : https://www.npmjs.com/package/react-hot-loader
+1、webpack devserveroption 的 hot设置为true
+
+2、添加 HotModuleReplacementPlugin
+
+3、配置 react-hot-loader : https://www.npmjs.com/package/react-hot-loader
 
 ### 可能会用到的 webpack plugin
 
